@@ -543,6 +543,12 @@ h6,
   color: #ffffff!important;
 }
 
+
+#content1-e P {
+  font-family: 'Merriweather', serif;
+  font-size: 13px;
+  color: #000000;
+}
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -603,7 +609,7 @@ h6,
 }
 #ext_menu-a .link[aria-expanded="true"],
 #ext_menu-a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 
 #ext_menu-a .hide-buttons .nav-btn {
