@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Marieke Portfolio 2017",
-    "currentPage": "index.html",
+    "currentPage": "photography.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -222,7 +222,7 @@
           "_name": "slider3",
           "_params": {
             "autoplay": false,
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "timeout": 5,
             "slides": [
@@ -313,7 +313,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -525,7 +525,7 @@
           "_name": "image2",
           "_anchor": "image2-g",
           "_params": {
-            "paddingTop": 4,
+            "paddingTop": "7",
             "paddingBottom": 4,
             "bgColor": "#fff",
             "showText": false
@@ -533,8 +533,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/scan-9-1400x954.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -627,7 +631,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",

@@ -540,7 +540,7 @@ h6,
 }
 #ext_menu-a .link[aria-expanded="true"],
 #ext_menu-a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 
 #ext_menu-a .hide-buttons .nav-btn {
@@ -666,5 +666,5 @@ h6,
 }
 #ext_menu-a .link[aria-expanded="true"],
 #ext_menu-a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
