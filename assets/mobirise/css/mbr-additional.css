@@ -486,6 +486,7 @@ h6,
 
 
 
+
 #msg-box5-h B {
   font-family: 'Merriweather', serif;
 }
@@ -510,6 +511,13 @@ h6,
 }
 #content1-m DIV {
   font-family: 'Merriweather', serif;
+}
+#content1-q P {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+#features1-p .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
 }
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
