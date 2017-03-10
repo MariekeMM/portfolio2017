@@ -515,10 +515,10 @@ h6,
 #content1-q P {
   font-family: 'Merriweather', serif;
   font-size: 15px;
-  color: #efefef;
+  color: #000000;
 }
 #features1-p .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #efefef;
 }
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
