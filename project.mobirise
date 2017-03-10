@@ -276,7 +276,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Minima</b> <b>Docta</b><br><b><br></b>Poster voor de filmvertoning van 'Traité de bave et d'éternité' in kader van Minima Docta, een platform voor maatschappelijke discussie en documentaire cinema.&nbsp;<br><br>Bij het ontwerp van de poster is er inspiratie gehaald uit de hypergrafieën gemaakt door Isidore Isou, oprichter van het lettrisme. Het lettrisme is een franse avant-garde beweging opgericht door Isidore Isou, die ontstaan is uit de dada en het surrealisme. De hypergrafie staat centraal in het lettrisme en is een methode waarbij de manier van expressie van een letter of woord via geluid uitgebreid wordt met een visueel facet.&nbsp;",
+          "text": "<b>Minima</b> <b>Docta</b><br><b><br></b>Poster voor de filmvertoning van 'Traité de bave et d'éternité' in kader van Minima Docta, een platform voor maatschappelijke discussie en documentaire cinema.&nbsp;<br><br>Bij het ontwerp van de poster is er inspiratie gehaald uit de hypergrafieën gemaakt door Isidore Isou, oprichter van het lettrisme. Het lettrisme is een franse avant-garde beweging opgericht door Isidore Isou, die ontstaan is uit de dada en het surrealisme. De hypergrafie staat centraal in het lettrisme en is een methode waarbij de manier van expressie van een letter of woord via geluid uitgebreid wordt met een visueel facet.&nbsp;<br><br>841mm x 1189mm<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -302,7 +302,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p><b><i>Regisseur = Identiteit</i></b></p><p><br></p><p>Deze posterreeks is een grafische interpretatie van drie films gemaakt door regisseur Stanley Kubrick: Killer's Kiss, Dr. Strangelove en The Killing. &nbsp;Door het geweld aanwezig in de films als basis te gebruiken, is er een zoektocht geweest naar een mechanisme die de verschillende posters kan binden tot een grafische identiteit. Door op zoek te gaan naar drie kleuren die terug te linken zijn naar de desbetreffende zwart-witfilms en telkens het centrale moordwapen te combineren met een still uit de film, wordt er zo op een visuele manier een grafische identiteit gecreëerd.&nbsp;</p>"
+          "text": "<p><b><i>Regisseur = Identiteit</i></b></p><p><br></p><p>Deze posterreeks is een grafische interpretatie van drie films gemaakt door regisseur Stanley Kubrick: Killer's Kiss, Dr. Strangelove en The Killing. &nbsp;Door het geweld aanwezig in de films als basis te gebruiken, is er een zoektocht geweest naar een mechanisme die de verschillende posters kan binden tot een grafische identiteit. Door op zoek te gaan naar drie kleuren die terug te linken zijn naar de desbetreffende zwart-witfilms en telkens het centrale moordwapen te combineren met een still uit de film, wordt er zo op een visuele manier een grafische identiteit gecreëerd.&nbsp;</p><p><br></p><p>841mm x 1189mm</p>"
         },
         {
           "_tags": [
@@ -317,7 +317,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
