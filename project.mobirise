@@ -557,14 +557,15 @@
             "P": {
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#efefef"
             }
           },
           "_anchor": "content1-q",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "bgColor": "#2e2e2e"
           },
           "text": "<p><b>Ghent Art Book Fair</b></p><p><br></p><p>Deze posters zijn gemaakt voor de Ghent Art Book Fair 2017, georganiseerd door 019, Riot en Be-Part. Er moesten twee posters ontwikkeld worden, een aankondigingsaffiche en een decoratieve poster waar tussen een verband gemaakt kon worden. Als thema ben ik voor signalisatie gegaan, de aankondigingsaffiche kan in elke richting gebruikt worden en is steeds leesbaar. Op de plaats waar de art book fair doorgaat hangt dan de tweede poster, die verder gaat binnen het thema van de signalisatie en net zoals een aankondiging van een gemeentegrens de plaats van de Ghent Art Book Fair aanduidt.&nbsp;</p><p><br></p><p>841mm x 1189mm</p>"
         },

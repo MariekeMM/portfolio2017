@@ -515,6 +515,7 @@ h6,
 #content1-q P {
   font-family: 'Merriweather', serif;
   font-size: 15px;
+  color: #efefef;
 }
 #features1-p .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
