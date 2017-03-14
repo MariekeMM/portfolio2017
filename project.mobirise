@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Marieke Portfolio 2017",
-    "currentPage": "about.html",
+    "currentPage": "graphicdesign.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -239,7 +239,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -300,7 +300,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p><b>Identiteit</b></p><p><br></p><p>Deze posterreeks is een grafische interpretatie van drie films gemaakt door regisseur Stanley Kubrick: Killer's Kiss, Dr. Strangelove en The Killing. Door het geweld aanwezig in de films als basis te gebruiken, is er een zoektocht geweest naar een mechanisme die de verschillende posters kan binden tot een grafische identiteit. Door op zoek te gaan naar drie kleuren die terug te linken zijn naar de desbetreffende zwart-witfilms en telkens het centrale moordwapen te combineren met een still uit de film, wordt er zo op een visuele manier een grafische identiteit gecreëerd.&nbsp;</p><p><br></p><p>841mm x 1189mm</p>"
         },
@@ -311,18 +311,18 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
+              "background-color": "#efefef"
             }
           },
           "_anchor": "features1-o",
           "_params": {
-            "columnsColor": "#ffffff",
+            "columnsColor": "#efefef",
             "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -443,7 +443,7 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p><b>Typocopy</b></p><p><b><br></b></p><p>Het centrale onderwerp van deze publicatie is reproductie. Binnen de publicatie worden verschillende bekende ontwerpen van doorheen de geschiedenis van het grafisch ontwerp nagemaakt met een zelf gekozen tekst. Er is gekozen voor verhaal van 'The War of the Worlds' geschreven door H.G. Wells, wat een van de bekendste voorbeelden is van invasieliteratuur. Invasieliteratuur is onstaan in de periode voor de Eerste Wereldoorlog en voorspelde de komst van een grotere en sterkere vijand die het thuisland zou binnendringen en overnemen. In 'The War of the Worlds' neemt deze vijand de vorm van buitenaardse wezens aan. De schrijver wou echter hiermee de europese kolonisaties aan de kaak stellen en het algemene gedrag van de mens tegenover anderen onder de loep nemen.&nbsp;</p><p><br></p><p>Als beeldmateriaal is er dus niet gekozen voor beelden die geassociëerd worden met buitenaardse wezens, maar voor beelden van de Eerste en Tweede Wereldoorlog en de huidige strijd tegen terroristische en extremistische organisaties. Door deze als verschillende lagen op elkaar te leggen worden de beelden met elkaar geconfronteerd en onstaat er connecties en een wisselwerking tussen beelden die onstaan zijn in verschillende tijdsperiodes.&nbsp;</p><p><b><br></b></p><p>420mm x 594mm</p>"
         },
@@ -459,7 +459,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -568,7 +568,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
