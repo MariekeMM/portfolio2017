@@ -652,6 +652,11 @@ h6,
   color: #ffffff!important;
 }
 
+
+#content1-t P {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
 }

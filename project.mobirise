@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Marieke Portfolio 2017",
-    "currentPage": "graphicdesign.html",
+    "currentPage": "photography.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -445,7 +445,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Typocopy</b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p>"
+          "text": "<p><b>Typocopy</b></p><p><b><br></b></p><p>Het centrale onderwerp van deze publicatie is reproductie. Binnen de publicatie worden verschillende bekende ontwerpen van doorheen de geschiedenis van het grafisch ontwerp nagemaakt met een zelf gekozen tekst. Er is gekozen voor verhaal van 'The War of the Worlds' geschreven door H.G. Wells, wat een van de bekendste voorbeelden is van invasieliteratuur. Invasieliteratuur is onstaan in de periode voor de Eerste Wereldoorlog en voorspelde de komst van een grotere en sterkere vijand die het thuisland zou binnendringen en overnemen. In 'The War of the Worlds' neemt deze vijand de vorm van buitenaardse wezens aan. De schrijver wou echter hiermee de europese kolonisaties aan de kaak stellen en het algemene gedrag van de mens tegenover anderen onder de loep nemen.&nbsp;</p><p><br></p><p>Als beeldmateriaal is er dus niet gekozen voor beelden die geassociëerd worden met buitenaardse wezens, maar voor beelden van de Eerste en Tweede Wereldoorlog en de huidige strijd tegen terroristische en extremistische organisaties. Door deze als verschillende lagen op elkaar te leggen worden de beelden met elkaar geconfronteerd en onstaat er connecties en een wisselwerking tussen beelden die onstaan zijn in verschillende tijdsperiodes.&nbsp;</p><p><b><br></b></p><p>420mm x 594mm</p>"
         },
         {
           "_tags": [
@@ -454,7 +454,7 @@
           "_name": "features3",
           "_anchor": "features3-r",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -684,7 +684,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Ghent Art Book Fair</b></p><p><br></p><p>Deze posters zijn gemaakt voor de Ghent Art Book Fair 2017, georganiseerd door 019, Riot en Be-Part. Er moesten twee posters ontwikkeld worden, een aankondigingsaffiche en een decoratieve poster waar tussen een verband gemaakt kon worden. Als thema ben ik voor signalisatie gegaan, de aankondigingsaffiche kan in elke richting gebruikt worden en is steeds leesbaar. Op de plaats waar de art book fair doorgaat hangt dan de tweede poster, die verder gaat binnen het thema van de signalisatie en net zoals een aankondiging van een gemeentegrens de plaats van de Ghent Art Book Fair aanduidt.&nbsp;</p><p><br></p><p>841mm x 1189mm</p>"
+          "text": "<p><b>Ghent Art Book Fair</b></p><p><br></p><p>Deze posters zijn gemaakt voor de Ghent Art Book Fair 2017, georganiseerd door 019, Riot en Be-Part. Er moesten twee posters ontwikkeld worden, een aankondigingsaffiche en een decoratieve poster waar tussen een verband gemaakt kon worden. Als thema ben ik voor signalisatie gegaan, de aankondigingsaffiche kan in elke richting gebruikt worden en is steeds leesbaar. Op de plaats waar de Art Book Fair doorgaat hangt dan de tweede poster, die verder gaat binnen het thema van de signalisatie en net zoals een aankondiging van een gemeentegrens de plaats van de Ghent Art Book Fair aanduidt.&nbsp;</p><p><br></p><p>841mm x 1189mm</p>"
         },
         {
           "_tags": [
@@ -700,7 +700,7 @@
           "_params": {
             "columnsColor": "#efefef",
             "paddingTop": "2",
-            "paddingBottom": 2,
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1069,6 +1069,26 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Analoge fotografie is voor mij een manier om op een zeer vrije, maar toch bedachtezame manier om te gaan met de wereld rondom me. De magie van de analoge fotografie - de onzekerheid over hoe het resultaat er exact uit zal zien en welk effect de camera zal hebben op het resultaat - is iets dat me fascineert en enthousiast maakt om te spelen met licht en kleur.</p><p><br></p><p>Alle foto's zijn gedrukt op het standaard 10cm x 15cm formaat.&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "15px"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
