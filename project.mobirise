@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Marieke Portfolio 2017",
-    "currentPage": "photography.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -920,7 +920,33 @@
             "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<p>Marieke Marteaux (°1995) studeert grafisch ontwerp aan het Sint-Lucas en doet nog allemaal andere dingen.&nbsp;</p><p><br></p><p>Te bereiken via email op mariekemarteaux@hotmail.com</p>"
+          "text": "<p>Marieke Marteaux (°1995) is momenteel een derdejaars student grafisch ontwerp aan het Sint-Lucas gelegen te Gent. </p><p>Ze houdt van notitieboekjes kopen en nooit gebruiken, dansen alsof er niemand kijkt en kaas.&nbsp;</p><p><br></p><p>Te bereiken via email op mariekemarteaux@hotmail.com</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-v",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": ""
         },
         {
           "_tags": [
@@ -1105,8 +1131,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20150318-2000x1357-800x542.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20150318-2000x1357.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-800x542.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1115,8 +1141,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20150929-2000x1357-800x542.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20150929-2000x1357.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-800x542.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1125,8 +1151,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-7-2000x1439-800x575.png",
-                "image": "@PROJECT_PATH@/assets/images/scan-7-2000x1439.png",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-800x576.png",
+                "image": "@PROJECT_PATH@/assets/images/scan.jpeg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1135,8 +1161,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-15-2000x1341-800x536.png",
-                "image": "@PROJECT_PATH@/assets/images/scan-15-2000x1341.png",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-1-800x536.png",
+                "image": "@PROJECT_PATH@/assets/images/scan-1.jpeg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1145,8 +1171,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-8-2000x2980-800x1192.png",
-                "image": "@PROJECT_PATH@/assets/images/scan-8-2000x2980.png",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-2-800x1192.png",
+                "image": "@PROJECT_PATH@/assets/images/scan-2.jpeg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1155,8 +1181,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20150318-2000x2949-800x1179.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20150318-2000x2949.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2-800x1180.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1165,8 +1191,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20141104-2000x2956-800x1182.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20141104-2000x2956.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-800x1197.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1175,8 +1201,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-20-2000x1341-800x536.png",
-                "image": "@PROJECT_PATH@/assets/images/scan-20-2000x1341.png",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-3-800x536.png",
+                "image": "@PROJECT_PATH@/assets/images/scan-3.jpeg",
                 "caption": "Type caption here",
                 "active": true
               }
